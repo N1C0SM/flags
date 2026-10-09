@@ -1,0 +1,7 @@
+{
+  "name": "flags",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
